@@ -1,5 +1,3 @@
 def reverse_each_word(string)
-string.split(", ").map do |words|
-  
-end
+string.split(", ")
 end
